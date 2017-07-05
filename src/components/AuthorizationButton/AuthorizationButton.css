@@ -1,0 +1,16 @@
+.authorization-button {
+  text-decoration: none;
+  color: #fff;
+  padding: 20px 40px;
+  background-color: #3f3f3f;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.authorization-button.button-instagram {
+  background-color: #06365f;
+}
+
+.authorization-button .fa {
+  padding-right: 10px;
+}
